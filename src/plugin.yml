@@ -1,0 +1,7 @@
+name: "Minesweeper"
+main: "cz.mensa.tichy.richard.minesweeper.plugin.MinesweeperPlugin"
+version: 1.0
+author: "ArtifyCZ"
+commands:
+  minesweeper:
+    usage: /<command>
